@@ -1,0 +1,12 @@
+.App{
+    text-align: center;
+}
+.otpInput{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.input{
+    width: 20px;
+}
+
